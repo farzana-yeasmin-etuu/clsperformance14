@@ -15,10 +15,8 @@ font-family:'Lumanosimo', cursive;
 font-family:'Dancing Script', cursive;
 	font-weight:600;
 }
-#p4{
-	font:bold small-caps bold 20px/70px serif;
-}
+
 .fa-brands fa-facebook{
-	color:rgb(246, 7, 7);
-	font-size:50px;
+	color:rgb(245, 8, 8);
+	font-size:40px;
 }
